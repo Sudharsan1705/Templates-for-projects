@@ -1,5 +1,6 @@
 # Templates
-     Templates for different kinds of front-end designing
+     Templates for different kinds of front-end designing 
+     
 # There are 6 different templates
      1.Payement page
      2.Card
@@ -7,6 +8,10 @@
      4.Minicards
      5.Table
      6.Login
+
+# Technologies Used
+    1.HTML.
+    2.Bootstrap(FrameWork).
 /*
 These templates are developed using bootstrap.So,It will be responsive and gives good user experience.
 */
